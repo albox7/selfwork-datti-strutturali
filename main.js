@@ -32,5 +32,5 @@ console.log(array_1[0][0], // Un
 			array_1[2][1], // e
 			array_2[3][0], // nel
 			array_2[4][1], // buio
-			array_1[0][3], // incatenarli
+			array_1[0][3] // incatenarli.
 			);
